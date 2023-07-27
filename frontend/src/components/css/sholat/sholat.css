@@ -1,0 +1,50 @@
+.hero{
+    font-family: 'Poppins';
+}
+#hero-sholat {
+    background-color: #388A45;
+    background-image: url('./bglogin.png');
+    color: white;
+}
+#hero-sholat h1{
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 3vw;
+    padding-top: 5%;
+}
+.container-sholat {
+    padding-bottom: 60px;
+}
+
+#tanggalini {
+    font-family: 'Poppins';
+    font-size: 1.3vw;
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 2%;
+}
+/* #kotaid{
+    font-family: 'Poppins';
+    font-size: 1.3vw;
+    text-align: center;
+    font-weight: lighter;
+} */
+.select-style select{
+    font-family: 'Poppins';
+    font-size: 1.1vw;
+    color: #204d28;
+    align-items: center;
+    width: 500px;
+    height: 40px;
+}
+.select-style{
+    margin-left: 32%;
+}
+
+.table-sholat {
+    padding-left: 25%;
+    padding-bottom: 5%;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }

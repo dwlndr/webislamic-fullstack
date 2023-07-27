@@ -1,0 +1,28 @@
+GET  http://localhost:5000/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsIm5hbWUiOiJBcmRoaWxsYSBFa2EiLCJlbWFpbCI6ImFyZGhpbGxhQGdtYWlsLmNvbSIsImlhdCI6MTY4ODE4MDQ1NSwiZXhwIjoxNjg4MTgwNDc1fQ.RO_yWLCSVyHCZZPX8DpsTXWjOnoYF5lcIt3TepWaDtE
+
+###
+POST  http://localhost:5000/users
+Content-Type: application/json
+
+{
+    "name" : "Ardhilla Eka",
+    "email" : "ardhilla@gmail.com",
+    "password" : "123456",
+    "confPassword" : "123456"
+}
+
+###
+POST  http://localhost:5000/login
+Content-Type: application/json
+
+{
+    "email" : "ardhilla@gmail.com",
+    "password" : "123456"
+}
+
+###
+GET  http://localhost:5000/token
+
+### 
+DELETE  http://localhost:5000/logout

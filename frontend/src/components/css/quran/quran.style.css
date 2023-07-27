@@ -1,0 +1,23 @@
+.card-surat {
+    cursor: "pointer";
+    transition: 0.8s;
+}
+
+.card-surat:hover {
+    background-color: #a5d993;
+}
+
+.hidden-button {
+    display: none;
+}
+
+.baca{
+    color: blue;
+}
+
+h1{
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 15px;
+    padding-top: 3%;
+}

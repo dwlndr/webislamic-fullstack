@@ -1,0 +1,70 @@
+.hero-register {
+    background-color: #388A45;
+    background-image: url('./bglogin.png');
+}
+
+.judul-register p{
+    text-align: center;
+    font-size: 3.4vw;
+    font-family: 'Poppins';
+    font-weight: 650;
+    color: #FFFFFF;
+}
+
+.judul-register{
+    padding-top: 7%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.container-register{
+    margin-top: 0;
+    padding-bottom: 0px;
+}
+
+
+.inputan-register input{
+    height: 4.3vw;
+    width: 100%;
+    margin-bottom: 1vw;
+}
+
+input::placeholder{
+    font-family: 'Poppins';
+    color: #333131;
+    font-size: 16px;
+}
+
+.button-submit button{
+    height: 4.3vw;
+    width: 100%;
+    margin-bottom: 1vw;
+    font-family: 'Poppins';
+    font-size: 16px;
+    color: #081C09;
+    background-image: linear-gradient(to right, #69FF93, #EBD75D);
+}
+
+.ket-register p{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Poppins';
+    font-weight: lighter;
+    color: #FFFFFF;
+}
+.ket-register a{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.ket-register{
+    padding-bottom: 40px;
+}
+p{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    color: #c1d417;
+}

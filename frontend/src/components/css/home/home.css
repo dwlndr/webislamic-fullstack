@@ -1,0 +1,25 @@
+.hero {
+    background-color: #388A45;
+    background-image: url('./herohome.png');
+    color: white;
+}
+.container-home h1{
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 6vw;
+    padding-top: 10%;
+}
+.container-home h2{
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 5vw;
+}
+.hero p{
+    color: white;
+    font-family: 'Poppins';
+    font-weight: lighter;
+    font-size: 1.4vw;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-right: 75%;
+}

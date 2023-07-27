@@ -1,0 +1,82 @@
+.hero{
+    font-family: 'Poppins';
+}
+#hero-akun {
+    background-color: #388A45;
+    background-image: url('./bglogin.png');
+    color: white;
+}
+#hero-akun h1{
+    font-family: 'Poppins';
+    text-align: center;
+    font-size: 3vw;
+    padding-top: 3%;
+}
+
+.profile-oke {
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 5px rgba(35, 35, 35, 0.8);
+    border-radius: 20px;
+    padding-top: 6%;  
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+
+.foto-profil {
+    width: 15vw;
+    height: 15vw;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.profile-oke h4{
+    font-weight: bolder;
+    font-size: 23px;
+    margin-top: 1%;
+    color: #155838;
+    text-align: center;
+}
+.profile-oke h5{
+    color: #0c4228;
+    text-align: center;
+    margin-bottom: 5%;
+}
+/* #tanggalini {
+    font-family: 'Poppins';
+    font-size: 1.3vw;
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 2%;
+} */
+
+/* #kotaid{
+    font-family: 'Poppins';
+    font-size: 1.3vw;
+    text-align: center;
+    font-weight: lighter;
+} */
+
+/* .select-style select{
+    font-family: 'Poppins';
+    font-size: 1.1vw;
+    color: #204d28;
+    align-items: center;
+    width: 500px;
+    height: 40px;
+} */
+/* 
+.select-style{
+    margin-left: 32%;
+} */
+
+/* .table-sholat {
+    padding-left: 25%;
+    padding-bottom: 5%;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  } */

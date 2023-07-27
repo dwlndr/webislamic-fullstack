@@ -1,0 +1,36 @@
+nav{
+    height: 70px;
+    padding-top: 0px;
+}
+.logo-image{
+    width: 90px;
+    height: 90px;
+}
+
+.navbar-item {
+    font-family: 'Poppins';
+    font-size: 1vw;
+    padding-right: 20px;
+}
+
+.navbar-menu{
+    padding-right: 40px;
+}
+
+.button{
+    background-color: transparent;
+    font-family: 'Poppins';
+    font-size: 1vw;
+}
+.navbar-item.active {
+    color: #B4972A; 
+}  
+.navbar-item:hover a{
+    color: #B4972A; /* Ganti dengan warna yang Anda inginkan */
+  }
+.navbar-item a:hover{
+    color: #B4972A;
+}
+.navbar-item:hover {
+    color: #B4972A;
+}
